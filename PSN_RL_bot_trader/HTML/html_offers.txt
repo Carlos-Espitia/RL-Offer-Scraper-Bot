@@ -1,0 +1,502 @@
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Toxic_XxLightxX" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Huntress " class="rlg-item__image"
+<h2 class="rlg-item__name">Huntress (Fennec)</h2>
+<img alt="Anodized " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Credits offer " class="rlg-item__image"
+<li><a href="/trade/3031c5a633d6">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Linqxzy" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Interstellar " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-1550 --premium wide">
+<li><a href="/trade/056c5e2d5746">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Xelboku51" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Riser " class="rlg-item__image"
+<div class="rlg-item__paint --burnt-sienna" data-hex="4C1100" data-name="Burnt Sienna">
+<img alt="Riser " class="rlg-item__image"
+<div class="rlg-item__paint --forest-green" data-hex="4CAF50" data-name="Forest Green">
+<img alt="Light Show " class="rlg-item__image"
+<div class="rlg-item__paint --pink" data-hex="FF4081" data-name="Pink">
+<div class="rlg-trade__itemswants">
+<img alt="Credits offer " class="rlg-item__image"
+<img alt="Credits offer " class="rlg-item__image"
+<img alt="Credits offer " class="rlg-item__image"
+<li><a href="/trade/4331a00bdb0b">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/fe4RLess21345" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Sub-Zero " class="rlg-item__image"
+<div class="rlg-item__paint --burnt-sienna" data-hex="4C1100" data-name="Burnt Sienna">
+<div class="rlg-trade__itemswants">
+<img alt="Offer " class="rlg-item__image"
+<li><a href="/trade/fe21067b5bd2">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/JAYSIL101" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Octane " class="rlg-item__image"
+<div class="rlg-item__paint --cobalt" data-hex="3F51B5" data-name="Cobalt">
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-1250 --premium wide">
+<img alt="Offer " class="rlg-item__image"
+<li><a href="/trade/0439f6be74ee">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/yazz9_" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="R3MX GXT " class="rlg-item__image"
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-100000 --premium superduperwide">
+<div class="rlg-trade__itemswants">
+<img alt="R3MX GXT " class="rlg-item__image"
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-100000 --premium superduperwide">
+<li><a href="/trade/707393d6100e">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/ECU_LENREY07" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Golden Lantern '21 " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-3 --rare">
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-750 --premium wide">
+<img alt="Hellfire " class="rlg-item__image"
+<img alt="Sub-Zero " class="rlg-item__image"
+<li><a href="/trade/d1c0956fb99f">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Toxic_XxLightxX" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Dominus " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<div class="rlg-trade__itemswants">
+<img alt="Offer " class="rlg-item__image"
+<img alt="Mainframe " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<li><a href="/trade/26181d7d7fd2">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/mozuna1" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Heatwave " class="rlg-item__image"
+<img alt="Fire God " class="rlg-item__image"
+<img alt="Octane " class="rlg-item__image"
+<div class="rlg-item__paint --crimson" data-hex="D50000" data-name="Crimson">
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-2000 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-1700 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-4500 --premium wide">
+<li><a href="/trade/88771db8f732">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Chooksta04" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-70 --premium">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-10 --premium">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-80 --premium">
+<div class="rlg-trade__itemswants">
+<img alt="Christmas Tree " class="rlg-item__image"
+<img alt="Racer " class="rlg-item__image"
+<h2 class="rlg-item__name">Racer (Octane)</h2>
+<img alt="Griffon " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<h2 class="rlg-item__name">Griffon (Octane)</h2>
+<li><a href="/trade/b57314752d2a">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Toxic_XxLightxX" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Invader " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<img alt="Gaiden " class="rlg-item__image"
+<img alt="Infinium " class="rlg-item__image"
+<div class="rlg-item__paint --sky-blue" data-hex="03A9F4" data-name="Sky Blue">
+<div class="rlg-trade__itemswants">
+<img alt="Credits offer " class="rlg-item__image"
+<li><a href="/trade/fa7c10425170">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/aoe6677" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-200 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-300 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-500 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-500 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-100 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-30 --premium">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-100 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-200 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-300 --premium wide">
+<div class="rlg-trade__itemswants">
+<img alt="Proton " class="rlg-item__image"
+<div class="rlg-item__paint --orange" data-hex="F4B400" data-name="Orange">
+<img alt="Proton " class="rlg-item__image"
+<div class="rlg-item__paint --sky-blue" data-hex="03A9F4" data-name="Sky Blue">
+<img alt="Quimby " class="rlg-item__image"
+<div class="rlg-item__paint --black" data-hex="111111" data-name="Black">
+<img alt="RLCS X " class="rlg-item__image"
+<div class="rlg-item__paint --lime" data-hex="7FFF00" data-name="Lime">
+<img alt="Spectre blueprint" class="rlg-item__image"
+<img alt="Storm Watch blueprint" class="rlg-item__image"
+<img alt="Thermal " class="rlg-item__image"
+<div class="rlg-item__paint --orange" data-hex="F4B400" data-name="Orange">
+<img alt="Triplex " class="rlg-item__image"
+<div class="rlg-item__paint --sky-blue" data-hex="03A9F4" data-name="Sky Blue">
+<img alt="Tunica " class="rlg-item__image"
+<div class="rlg-item__paint --crimson" data-hex="D50000" data-name="Crimson">
+<li><a href="/trade/b170e7d5244c">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/XEl1te-HunTeRzX" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-19500 --premium superduperwide">
+<div class="rlg-trade__itemswants">
+<img alt="Fennec " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<li><a href="/trade/a6488487ca8f">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/xX_Tim_Xx7824" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Non-Crate Exotic Offer " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-250 --premium wide">
+<li><a href="/trade/45bd21d893ac">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/mozuna1" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Phoenix Wings III " class="rlg-item__image"
+<div class="rlg-item__paint --pink" data-hex="FF4081" data-name="Pink">
+<img alt="Flamethrower " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-400 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-400 --premium wide">
+<li><a href="/trade/9086f2deaf7c">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/SaivionH" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Streak Wave " class="rlg-item__image"
+<div class="rlg-item__paint --black" data-hex="111111" data-name="Black">
+<img alt="Streak Wave " class="rlg-item__image"
+<div class="rlg-item__paint --lime" data-hex="7FFF00" data-name="Lime">
+<img alt="Streak Wave " class="rlg-item__image"
+<div class="rlg-item__paint --pink" data-hex="FF4081" data-name="Pink">
+<img alt="Streak Wave " class="rlg-item__image"
+<div class="rlg-item__paint --orange" data-hex="F4B400" data-name="Orange">
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-20 --premium">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-20 --premium">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-20 --premium">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-10 --premium">
+<li><a href="/trade/2e1ac9790e4d">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/ECU_LENREY07" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Snakeskin " class="rlg-item__image"
+<h2 class="rlg-item__name">Snakeskin (Dominus)</h2>
+<img alt="Dot Rush " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-70 --premium">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-70 --premium">
+<li><a href="/trade/16b88c4db6ea">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/iRNKD" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-25000 --premium superduperwide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-4500 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-7000 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-3100 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-1900 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-1900 --premium wide">
+<div class="rlg-trade__itemswants">
+<img alt="Mainframe " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<img alt="Mainframe " class="rlg-item__image"
+<div class="rlg-item__paint --crimson" data-hex="D50000" data-name="Crimson">
+<img alt="Mainframe " class="rlg-item__image"
+<div class="rlg-item__paint --black" data-hex="111111" data-name="Black">
+<img alt="Mainframe " class="rlg-item__image"
+<div class="rlg-item__paint --sky-blue" data-hex="03A9F4" data-name="Sky Blue">
+<img alt="Mainframe " class="rlg-item__image"
+<div class="rlg-item__paint --purple" data-hex="9C27B0" data-name="Purple">
+<img alt="Mainframe " class="rlg-item__image"
+<div class="rlg-item__paint --cobalt" data-hex="3F51B5" data-name="Cobalt">
+<li><a href="/trade/68f5cf8b79c9">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/iRNKD" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Gold Cap (Alpha Reward) " class="rlg-item__image"
+<img alt="Reaper " class="rlg-item__image"
+<div class="rlg-item__paint --sky-blue" data-hex="03A9F4" data-name="Sky Blue">
+<img alt="Apex " class="rlg-item__image"
+<div class="rlg-item__paint --cobalt" data-hex="3F51B5" data-name="Cobalt">
+<img alt="EQ " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<div class="rlg-trade__itemswants">
+<img alt="Credits offer " class="rlg-item__image"
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-25000 --premium superduperwide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-30000 --premium superduperwide">
+<img alt="Credits offer " class="rlg-item__image"
+<li><a href="/trade/4c9ce099708e">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/xX_Tim_Xx7824" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Winter Storm " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-50 --premium">
+<li><a href="/trade/6093fdeca691">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Chooksta04" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Dueling Dragons " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-5000 --premium wide">
+<li><a href="/trade/6a08ec7aeb9a">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/YT_ItsXoran" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Draco " class="rlg-item__image"
+<div class="rlg-item__paint --grey" data-hex="777777" data-name="Grey">
+<img alt="Hypnotik " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-800 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-100 --premium wide">
+<li><a href="/trade/ff2409f56042">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Toxic_XxLightxX" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Octane " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<div class="rlg-trade__itemswants">
+<img alt="Credits offer " class="rlg-item__image"
+<img alt="Fennec " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<li><a href="/trade/5c8bb7731a59">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Blitz_EntidyYT" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Tempest " class="rlg-item__image"
+<img alt="Marauder " class="rlg-item__image"
+<img alt="Saptarishi " class="rlg-item__image"
+<img alt="Kyrios " class="rlg-item__image"
+<img alt="HNY " class="rlg-item__image"
+<img alt="Dire Wolf " class="rlg-item__image"
+<img alt="Paper-Cut " class="rlg-item__image"
+<img alt="Proteus " class="rlg-item__image"
+<img alt="Samurai " class="rlg-item__image"
+<img alt="Mantis " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Credits offer " class="rlg-item__image"
+<li><a href="/trade/1c381ebb939a">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/tittlewiddle" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Rad Rock " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<img alt="Rad Rock " class="rlg-item__image"
+<div class="rlg-item__paint --lime" data-hex="7FFF00" data-name="Lime">
+<img alt="Rad Rock " class="rlg-item__image"
+<div class="rlg-item__paint --sky-blue" data-hex="03A9F4" data-name="Sky Blue">
+<img alt="Rad Rock " class="rlg-item__image"
+<div class="rlg-item__paint --saffron" data-hex="FFEB3B" data-name="Saffron">
+<img alt="Rad Rock " class="rlg-item__image"
+<div class="rlg-item__paint --pink" data-hex="FF4081" data-name="Pink">
+<img alt="Rad Rock " class="rlg-item__image"
+<div class="rlg-item__paint --black" data-hex="111111" data-name="Black">
+<img alt="Rad Rock " class="rlg-item__image"
+<div class="rlg-item__paint --burnt-sienna" data-hex="4C1100" data-name="Burnt Sienna">
+<img alt="Rad Rock " class="rlg-item__image"
+<div class="rlg-item__paint --orange" data-hex="F4B400" data-name="Orange">
+<img alt="Rad Rock " class="rlg-item__image"
+<div class="rlg-item__paint --purple" data-hex="9C27B0" data-name="Purple">
+<img alt="Rad Rock " class="rlg-item__image"
+<div class="rlg-item__paint --forest-green" data-hex="4CAF50" data-name="Forest Green">
+<div class="rlg-trade__itemswants">
+<img alt="Credits offer " class="rlg-item__image"
+<img alt="Offer " class="rlg-item__image"
+<li><a href="/trade/d02438bf2de6">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/YoutubeZelozSZN" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-1000 --premium wide">
+<div class="rlg-trade__itemswants">
+<img alt="Non-Crate Exotic Offer " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-5 --exotic">
+<li><a href="/trade/503dd4733ff7">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/yuvcb675" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-50 --premium">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-1000 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-600 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-100 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-150 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-80 --premium">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-200 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-250 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-1100 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-20 --premium">
+<div class="rlg-trade__itemswants">
+<img alt="FSL-B " class="rlg-item__image"
+<img alt="Infinium " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<img alt="Ion " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<img alt="Jäger 619 " class="rlg-item__image"
+<img alt="Jäger 619 " class="rlg-item__image"
+<div class="rlg-item__paint --sky-blue" data-hex="03A9F4" data-name="Sky Blue">
+<img alt="Mandala " class="rlg-item__image"
+<div class="rlg-item__paint --black" data-hex="111111" data-name="Black">
+<img alt="Merc " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<img alt="Nimbus " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<img alt="Octane " class="rlg-item__image"
+<div class="rlg-item__paint --cobalt" data-hex="3F51B5" data-name="Cobalt">
+<img alt="Sun-Damaged " class="rlg-item__image"
+<li><a href="/trade/9486f0fb0f18">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Toxic_XxLightxX" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Dominus " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-70000 --premium superduperwide">
+<li><a href="/trade/2882d87b406d">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/J_Kgamer_64" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Paladin " class="rlg-item__image"
+<div class="rlg-item__paint --pink" data-hex="FF4081" data-name="Pink">
+<div class="rlg-trade__itemswants">
+<img alt="Draco " class="rlg-item__image"
+<li><a href="/trade/2e4dc64dab1c">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Chooksta04" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-30 --premium">
+<div class="rlg-trade__itemswants">
+<img alt="Zomba blueprint" class="rlg-item__image"
+<img alt="Draco blueprint" class="rlg-item__image"
+<img alt="Infinium blueprint" class="rlg-item__image"
+<li><a href="/trade/d7e5c909eec3">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Toxic_XxLightxX" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Non-Crate Exotic Offer " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-290 --premium wide">
+<li><a href="/trade/4943ab002fe8">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/iRNKD" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Octane " class="rlg-item__image"
+<div class="rlg-item__paint --crimson" data-hex="D50000" data-name="Crimson">
+<img alt="Fennec " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<img alt="Apex " class="rlg-item__image"
+<div class="rlg-item__paint --black" data-hex="111111" data-name="Black">
+<img alt="Ninja " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-4700 --premium wide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-28000 --premium superduperwide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-12500 --premium superduperwide">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-5000 --premium wide">
+<li><a href="/trade/31812e41094b">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/xX_Tim_Xx7824" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Aether " class="rlg-item__image"
+<img alt="Aether " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Offer " class="rlg-item__image"
+<img alt="Offer " class="rlg-item__image"
+<img alt="Credits offer " class="rlg-item__image"
+<li><a href="/trade/d3eb38a358ef">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/BysituxY_T" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Vortex " class="rlg-item__image"
+<div class="rlg-item__paint --black" data-hex="111111" data-name="Black">
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-400 --premium wide">
+<li><a href="/trade/ec0514517daf">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Toxic_XxLightxX" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Octane " class="rlg-item__image"
+<div class="rlg-item__paint --crimson" data-hex="D50000" data-name="Crimson">
+<img alt="Halo " class="rlg-item__image"
+<div class="rlg-item__paint --black" data-hex="111111" data-name="Black">
+<div class="rlg-trade__itemswants">
+<img alt="Credits offer " class="rlg-item__image"
+<img alt="Credits offer " class="rlg-item__image"
+<img alt="Credits offer " class="rlg-item__image"
+<li><a href="/trade/fc0ee48f676c">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Chooksta04" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Dune-Sweeper " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<img alt="Gift Storm " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Credits offer " class="rlg-item__image"
+<li><a href="/trade/6b8a7ab75f10">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/xX_Tim_Xx7824" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="SLK " class="rlg-item__image"
+<img alt="Truncheon " class="rlg-item__image"
+<img alt="Flowers " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-40 --premium">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-50 --premium">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-40 --premium">
+<li><a href="/trade/76e817c06c0f">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Gooner4eva999" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Emerald " class="rlg-item__image"
+<div class="rlg-item__paint --crimson" data-hex="D50000" data-name="Crimson">
+<div class="rlg-trade__itemswants">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-7600 --premium wide">
+<li><a href="/trade/fc64566a0034">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/aoe6677" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Credits " class="rlg-item__image"
+<div class="rlg-item__quantity --quantity-50 --premium">
+<div class="rlg-trade__itemswants">
+<img alt="Free Ride " class="rlg-item__image"
+<li><a href="/trade/1a984ea70b0f">Trade details</a></li>
+<a class="rlg-trade__platform" href="https://my.playstation.com/profile/Toxic_XxLightxX" rel="noopener" style="order: 100;" target="_blank">
+<div class="rlg-trade__itemshas">
+<img alt="Fennec " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<img alt="Credits offer " class="rlg-item__image"
+<div class="rlg-trade__itemswants">
+<img alt="Mainframe " class="rlg-item__image"
+<div class="rlg-item__paint --titanium-white" data-hex="FFFFFF" data-name="Titanium White">
+<li><a href="/trade/39f645f8a273">Trade details</a></li>
